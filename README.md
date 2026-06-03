@@ -83,7 +83,7 @@ My core interests lie at the intersection of **Startups**, **Artificial Intellig
   <a href="https://www.linkedin.com/in/narasimha-sathvik-munaga-486880212/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:sathvikmunaga@gmail.com" target="_blank">
+  <a href="mailto:mnsathvik123@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
@@ -163,7 +163,7 @@ My core interests lie at the intersection of **Startups**, **Artificial Intellig
   <a href="https://www.linkedin.com/in/narasimha-sathvik-munaga-486880212/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Sathvik%20Munaga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
-  <a href="mailto:sathvikmunaga@gmail.com" target="_blank">
+  <a href="mailto:mnsathvik123@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Connect%20Now-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
